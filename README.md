@@ -8,5 +8,6 @@ This is representing the correletion between each attributes in the data of hous
 Product matching
 Comming to Product matching(Shack-Labs-assignment2) I have used machine learning and pandas techniques which brings the right matches of both datasets
 and the final representation of similar products in both amazon and flipkart datasets
+finally i create a file.csv which is useful in uploading compared products of amazon and flipkart
 
 ![Screenshot from 2022-11-29 19-46-52](https://user-images.githubusercontent.com/66892157/204555546-f2d11a24-7c38-4fbf-aa2b-c9edfe7f78ba.png)
