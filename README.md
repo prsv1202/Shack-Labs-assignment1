@@ -1,5 +1,5 @@
 # Shack-Labs-assignment1
-House price prediction
+House price prediction and product maching
 This is representing the correletion between each attributes in the data of house price prediction and coming to algorithms I have used linear regression and support vector regression
 
 ![Screenshot from 2022-11-29 19-44-37](https://user-images.githubusercontent.com/66892157/204554025-744684c8-bf32-423e-b2c9-cdadf4846af7.png)
